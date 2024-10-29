@@ -1,0 +1,1 @@
+本文件夹仅包含yolox和yolov5的目标检测代码与对应的模型，运行环节需要在Airbox环境中进行，具体配置信息参考Airbox官网文档：https://docs.radxa.com/sophon/airbox/local-ai-deploy/model-zoo/yolov5_det
