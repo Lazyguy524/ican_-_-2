@@ -1,0 +1,1 @@
+本文件夹内只存放了部分关键代码，具体的环境配置可参考Airbox官网文档：https://docs.radxa.com/sophon/airbox/local-ai-deploy/large-model/chatbot_llama3
